@@ -1,2 +1,2 @@
-# ece_4180_project
-Final project for ECE 4180 Fall 22.
+# Final project: ECE 4180 F22
+This repository hosts final project for ECE 4180 at Georgia Tech during Fall 22.
