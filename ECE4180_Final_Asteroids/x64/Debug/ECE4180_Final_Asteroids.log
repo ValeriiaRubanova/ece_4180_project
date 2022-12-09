@@ -1,0 +1,65 @@
+﻿  Asteroid.cpp
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\Asteroid.cpp(111,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\Asteroid.cpp(111,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\Asteroid.cpp(111,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\Asteroid.cpp(113,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\Asteroid.cpp(113,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\Asteroid.cpp(113,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  BlasterShot.cpp
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\BlasterShot.cpp(48,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\BlasterShot.cpp(50,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\BlasterShot.cpp(50,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\BlasterShot.cpp(50,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\BlasterShot.cpp(52,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\BlasterShot.cpp(52,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\BlasterShot.cpp(52,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Serial_Com.cpp
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\Serial_Com.cpp(72,19): warning C4309: '=': truncation of constant value
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\Serial_Com.cpp(282,41): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\Serial_Com.cpp(285,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Spaceship.cpp
+  main.cpp
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\ECE_Bitmap.h(99,1): warning C4267: '+=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\ECE_Bitmap.h(110,1): warning C4267: '+=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\ECE_Bitmap.h(133,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\ECE_Bitmap.h(145,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(89,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(134,56): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(134,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(135,55): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(135,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(158,51): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(158,30): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(160,47): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(160,30): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(164,50): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(164,30): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(167,51): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(167,30): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(184,51): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(184,30): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(188,51): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(188,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(190,55): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(190,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(193,55): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(193,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(195,55): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(195,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(197,55): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(197,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(199,55): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(199,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(201,55): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(201,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(203,55): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(203,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(205,55): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(205,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(207,55): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(207,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(209,55): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(209,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\ECE4180_Final_Asteroids\main.cpp(239,14): warning C4101: 'collision': unreferenced local variable
+  Generating Code...
+  ECE4180_Final_Asteroids.vcxproj -> C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ece_4180_project\x64\Debug\ECE4180_Final_Asteroids.exe

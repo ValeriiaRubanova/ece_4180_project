@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ECE4122_FinalProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Serial_Com.cpp
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4180_Final_Asteroids\Serial_Com.cpp(187,41): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4180_Final_Asteroids\Serial_Com.cpp(190,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ECE4180_Final_Asteroids.vcxproj -> C:\Users\rache\source\repos\ECE4180_Final_Asteroids\Debug\ECE4180_Final_Asteroids.exe

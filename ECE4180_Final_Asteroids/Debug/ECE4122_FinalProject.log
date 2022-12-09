@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ECE4122_FinalProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ECE_Ghost.cpp
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\ECE_Pacman.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\ECE_Ghost.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\ECE_Ghost.cpp(187,36): warning C4101: 'e': unreferenced local variable
+  ECE_Pacman.cpp
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\ECE_Pacman.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\ECE_Pacman.cpp(117,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\ECE_Pacman.cpp(194,23): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\ECE_Pacman.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\main.cpp(42,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\main.cpp(43,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\main.cpp(44,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\main.cpp(152,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\main.cpp(153,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Maze.cpp
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\ECE_Pacman.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Node.cpp
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\Node.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\Node.cpp(63,19): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\rache\source\repos\ECE4180_Final_Asteroids\ECE4122_FinalProject\Maze.cpp(69): warning C4715: 'Maze::getWallHeight': not all control paths return a value
+  ECE4122_FinalProject.vcxproj -> C:\Users\rache\source\repos\ECE4180_Final_Asteroids\Debug\ECE4180_Final_Asteroids.exe
