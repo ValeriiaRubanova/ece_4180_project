@@ -35,3 +35,31 @@ Demo: [include link]
 Download ECE4180_Asteroids_MBED-OS2.LPC1768_FINAL.bin to the mbed
 
 Plug in the mbed to usb port on computer and run x64/Debug/ECE4180_Final_Asteroids.exe
+
+## Software specs
+
+### MBED
+Multi-threaded program:
+- processing thread dedicated to reading and processing values from accelerometer and pushbuttons
+- speaker thread which is playing appropriate sound effects 
+- Serial COM thread dedicated to sending processed input data to the computer, receiving and processing game event data, and reading/writing to SD card 
+
+### PC
+Multi-threaded program:
+- processing thread which renders graphics and updates the game
+  - Graphics are rendered with opengl GLUT library
+- Serial COM thread which sends and receives data from mbed through serial COM port
+
+
+## Results and further improvement ideas
+
+### Results Summary
+- Full functionality for basic gameplay
+- High scores recorded and saved on SD card
+
+### Further Work
+- Asteroids breaking apart into smaller asteroids
+- Shield functionality
+- UFO
+- Background music
+
