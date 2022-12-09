@@ -1,6 +1,6 @@
 # Final project: ECE 4180 F22
 
-Modern implementation of a 3D version of the arcade game “Asteroids” in 3D using mbed as a hand-held device for user input. Game graphics will be displayed on a computer screen through serial port connection, additional gameplay effects, like sounds, will be played on a speaker peripheral.
+Modern implementation of a 3D version of the arcade game “Asteroids” in 3D using mbed as a hand-held device for user input. Game graphics are displayed on a computer screen through serial port connection, rendered using opengl. Additional gameplay effects, like sounds, will be played on a speaker peripheral. High scores are stored on the SD card. 
 
 Demo: [include link]
 
