@@ -1,8 +1,0 @@
-﻿  ECE_Pacman.cpp
-C:\Users\rache\source\repos\ECE4122_FinalProject\ECE4122_FinalProject\ECE_Pacman.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  Generating code
-  4 of 138 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  ECE4122_FinalProject.vcxproj -> C:\Users\rache\source\repos\ECE4122_FinalProject\Release\ECE4122_FinalProject.exe
