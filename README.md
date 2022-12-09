@@ -2,7 +2,7 @@
 
 Modern implementation of a 3D version of the arcade game “Asteroids” using mbed as a hand-held device for user input. Game graphics are displayed on a computer screen through serial port connection, additional gameplay effects, like sounds, are played on a speaker peripheral. High scores are stored on the SD card.
 
-Demo: [include link]
+Demo: [video link](https://youtu.be/jBx7Cabc0ag)
 
 ## Technical project specifications
 
