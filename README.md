@@ -29,6 +29,24 @@ Demo: [include link]
 
 <img width="326" alt="Screen Shot 2022-12-09 at 12 26 02 PM" src="https://user-images.githubusercontent.com/81819912/206758574-2e01965a-d928-4040-a9e5-be23e01f1816.png">
 
+| LPC1768   | TPA2005D1 | Speaker | MMA8452 | PB #1 | PB #2 | PB #3 | microSD | Power supply (5V) |
+| --------- | --------- | ------- | ------- | ----- | ----- | ----- | ------- | ----------------- |
+| VOUT(3.3V)|	 | | 3.3V | | | | Vcc | |
+| GND | PWR- | | GND | - | - | - | GND | GND |
+| | PWR+ | | | | | | | Vcc |
+| p5  | | | | | | | DI |
+| p6  | | | | | | | D0 |
+| p7  | | | | | | | SCK |
+| p8  | | | | | | | CS |
+| | OUT+ | + |
+| | OUT- | - |
+| p21 | IN+ |
+| p22 | | | | + |
+| p23 | | | | | + |
+| p24 | | | | | | + |
+| p27 | | | SCL |
+| p28 | | | SDA |
+
 
 ## How to run the program
 
