@@ -9,7 +9,9 @@ Demo: [include link]
 ### Hardware used:
 
 ### Software prerequisutes:
+mbed serial drivers installed on the computer
 
 ### Mbed connections schematics:
 
 ## How to run the program
+Plug in the mbed and run x64/Debug/ECE4180_Final_Asteroids.exe
