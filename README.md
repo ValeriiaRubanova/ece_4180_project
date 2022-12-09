@@ -23,5 +23,6 @@ mbed serial drivers installed on the computer
 ### Mbed connections schematics:
 
 ## How to run the program
+Download ECE4180_Asteroids_MBED-OS2.LPC1768_FINAL.bin to the mbed
 Plug in the mbed to usb port on computer and run x64/Debug/ECE4180_Final_Asteroids.exe
 
