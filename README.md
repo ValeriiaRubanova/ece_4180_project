@@ -21,6 +21,7 @@ Personal Computer
 mbed serial drivers installed on the computer
 
 ### Mbed connections schematics:
+![Alt text](AsteroidsMbedPhoto.jpeg?raw=true)
 
 ## How to run the program
 Download ECE4180_Asteroids_MBED-OS2.LPC1768_FINAL.bin to the mbed  
